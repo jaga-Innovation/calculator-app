@@ -2,9 +2,6 @@
 
 A basic calculator app built using HTML, CSS, and JavaScript that performs standard arithmetic operations.
 
-## Demo
-
-[Click here](#) to view the live demo.
 
 ## Features
 
@@ -25,9 +22,3 @@ A basic calculator app built using HTML, CSS, and JavaScript that performs stand
 2. Perform calculations using the arithmetic operation buttons.
 3. Press the "=" button or hit Enter to get the result.
 4. Use the "C" (Clear) button to reset the calculator.
-
-## How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/calculator-app.git
